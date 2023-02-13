@@ -2,4 +2,5 @@
 
 ## Menggunakan library MRJob
 ### cara running :
-1. 
+* menggunakan mrjob
+1. python map_reduce_function.py benda.txt (di terminal)
